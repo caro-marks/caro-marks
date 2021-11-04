@@ -1,4 +1,13 @@
-### Hi there 👋
+<div align="center">
+  <a target="_blank" href="https://caro-marks.github.io/portfolio/">
+      <img src="./hello-world.gif" width="290" height="290" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+  </a>
+  <h2> 👋 Hi! I'm a Full Stack Jr Developer :p </h2>
+  <br/>
+  <h3> 🔭 I’m currently looking for a good job. <h3>
+  <h4> :computer: I have been working with Django+Vue Stack. <h4>
+  <h4> 🌱 I’m currently learning Nuxt, Vuex, and Typescript. <h4>
+</div>
 
 <!--
 **caro-marks/caro-marks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
