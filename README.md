@@ -4,7 +4,7 @@
   </a>
   <h2> 👋 Hi! I'm a Full Stack Jr Developer :p </h2>
   <br/>
-  <h3> 🔭 I’m currently working at **'Ja Vendeu'** and **'Longevity'**. <h3>
+  <h3> 🔭 I’m currently working at <strong>Ja Vendeu</strong> and <strong>Longevity</strong>. <h3>
   <h4> :computer: I have been working with Django+Vue Stack. <h4>
   <h4> 🌱 I’m currently learning Sanic, and React.js. <h4>
 </div>
