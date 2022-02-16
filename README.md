@@ -2,7 +2,7 @@
   <a target="_blank" href="https://caro-marks.github.io/portfolio/">
       <img src="./hello-world.gif" width="290" height="290" frameBorder="0" class="giphy-embed" allowFullScreen></img>
   </a>
-  <h2> 👋 Hi! I'm a Full Stack Jr Developer :p </h2>
+  <h2> 👋 Hi! I'm a Full Stack Developer :p </h2>
   <br/>
   <h3> 🔭 I’m currently working at <strong>Ja Vendeu</strong> and <strong>Longevity</strong>. <h3>
   <h4> :computer: I have been working with Django+Vue Stack. <h4>
