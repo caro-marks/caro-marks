@@ -4,7 +4,7 @@
   </a>
   <h2> 👋 Hi! I'm a Full Stack Developer :p </h2>
   <br/>
-  <h3> 🔭 I’m currently looking for a new job! <h3>
+  <h3> 🔭 I’m currently working at South System, for AtatB2B! <h3>
   <h4> :computer: I have been working with Django+Vue Stack. <h4>  
   <h4> 🌱 Recently I've been practicing React and Bootstrap. <h4>
   <h4> 🌱 I’m currently learning Flask, and GCP. <h4>
